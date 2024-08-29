@@ -5,14 +5,8 @@
     { "name": "Chaitanya Jolly", "age": 23, "marks": 64 },
     { "name": "Jahanvi", "age": 21, "marks": 88 }
 ]
-[
-    { "name": "Khushi", "age": 22, "marks": 85 },
-    { "name": "Taran", "age": 24, "marks": 92 },
-    { "name": "Harmanav", "age": 20, "marks": 78 },
-    { "name": "Harman", "age": 23, "marks": 64 },
-    { "name": "Raman", "age": 21, "marks": 88 }
-]
-[
+
+const faculty=[
     { "name": "Dr.Vaibhav Singla" , "age": 22, "subject": "c++", "rating": 4.5 },
     { "name": "Dr.Abhinav Jain" , "age": 24, "subject": "java", "rating": 4.8 },
     { "name": "Dr.Neerav Singla" , "age": 20, "subject": "DBMS", "rating": 4.2 },
